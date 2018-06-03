@@ -108,3 +108,19 @@ If you've implemented these instructions you console in the browser should read:
 
 - When an enemy or weapon gets clicked it gets deleted from the DOM
 # Week_1_Assignment
+
+
+
+
+
+//DoBattle is working on the terminal with example of 2 objects -- what is wrong??
+
+/*/*function equipWeapon (creature, index) {
+  for (var index = 0; i > creature.inventory.length; i--)
+  if (typeof creature.inventory[index] !== 'undefined' ) {creature.weapon.type = " "}
+  else
+  {creature.weapon.type = creature.inventory[index]
+  creature.inventory.splice(index,1)
+}
+  return creature
+}*/
