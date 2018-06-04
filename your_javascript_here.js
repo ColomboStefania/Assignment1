@@ -2,7 +2,7 @@
 // Variables
 
 var hero = {
-  name : "attacker",
+  name : "batman",
   heroic : true,
   inventory : ["Knife", "Water", "Food", "Tape", "Bomb", "Explosive"],
   health : 15,
